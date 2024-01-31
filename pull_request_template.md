@@ -8,7 +8,7 @@ PROJ-XXX
 ### How can this be validated? <!-- Instructions for QA -->
 
 ### Pull request checklist
-- [ ] Is it possible to deploy automatically? If it requires manual deployment, did you include the steps needed to deploy?
-- [ ] Did you make sure documentation have been updated, if needed?
-- [ ] Did you include all necessary translations, if any?
-- [ ] Did you make sure to update sanitization routines if fields for storing personal information are added?
+- [ ] Can be deploy automatically? _If manual actions are required:_ did you describe the deploy steps?
+- [ ] Is the documentation updated, if it makes sense? <!-- Check this also if no updating is needed -->
+- [ ] Are necessary translations added/updated? <!-- Check this even if no translations are being changed -->
+- [ ] Did you update sanitization routines, where personal information is handled?
