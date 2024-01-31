@@ -1,4 +1,4 @@
-# References <!-- Link to the Jira task -->
+**References** <!-- Link to the Jira task -->
 PROJ-XXX
 
 ### Changed <!-- What changed with this PR -->
